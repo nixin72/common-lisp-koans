@@ -1,0 +1,34 @@
+(
+ #:asserts
+ #:nil-false-empty
+ #:evaluation
+ #:atoms-vs-lists
+ #:let
+ #:scope-and-extent
+ #:basic-macros
+ #:lists
+ #:arrays
+ #:vectors
+ #:multiple-values
+ #:equality-distinctions
+ #:hash-tables
+ #:functions
+ #:strings
+ #:structures
+ #:iteration
+ #:mapcar-and-reduce
+ #:control-statements
+ #:loops
+ #:scoring-project
+ #:format
+ #:type-checking
+ #:clos
+ #:std-method-comb
+ #:condition-handlers
+ #:triangle-project
+ #:dice-project
+ #:backquote
+ #:macros
+ #+quicklisp #:threads
+ #:extra-credit
+ )
